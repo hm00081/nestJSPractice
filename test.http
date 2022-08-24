@@ -1,0 +1,12 @@
+### Send Test
+GET http://localhost:5000
+
+### Post Test
+POST http://localhost:5000/user/add
+{
+    email: "",
+    id: ""
+}
+
+###
+DELETE http://localhost:5000/user/delete
