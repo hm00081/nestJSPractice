@@ -104,3 +104,7 @@ name
 error:,
 }
 Service.addUser(ß) 호출
+
+node - pm2
+
+linux - nohup

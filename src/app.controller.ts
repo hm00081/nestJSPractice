@@ -9,7 +9,7 @@ export class AppController {
   // Get과 Post의 차이: Get은 body를 받을 수 없다??
   // 면접 단골질문!!!!!!
   // Get Post Put Delete 차이, http에 대해 설명해 보시오.
-  // Amazon H2
+  // Amazon SSH??? ssh aws vis
   @Get('/list')
   getHello(): string {
     return this.appService.getHello();
@@ -21,7 +21,7 @@ export class AppController {
   }
 
   @Delete()
-  deleteUSer(): string {
+  deleteUser(): string {
     return this.appService.deleteUser();
   }
 }
