@@ -108,3 +108,12 @@ Service.addUser(ß) 호출
 node - pm2
 
 linux - nohup
+
+9월 29일에 진행중인 프로젝트 소개
+
+단위 기능들을 Service & Controller 복수 결합
+
+browser, curl
+http 통신을 통해 데이터를 받아갈 수 있게.
+
+d3plus, nvd3 시각화 개발소스 이용
